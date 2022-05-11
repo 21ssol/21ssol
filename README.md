@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hansol-lee
-- 👀 I’m interested in 🧗‍♀️
+- 👀 I’m interested in climing🧗‍, piano🎹♀
 - 🌱 I’m currently learning Java, MYSQL
 - 📫 Please contact to me 'earnie123@naver.com' 👈 here!
 
