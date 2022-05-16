@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hansol-lee
-- 👀 I’m interested in climing🧗‍, piano🎹
-- 🌱 I’m currently learning Java, MYSQL
+- 👀 I’m interested in climbing🧗‍, piano🎹
+- 🌱 I’m currently learning Java, MYSQL, Javascript etc..
 - 📫 Please contact to me 'earnie123@naver.com' 👈 here!
 
 <!---
